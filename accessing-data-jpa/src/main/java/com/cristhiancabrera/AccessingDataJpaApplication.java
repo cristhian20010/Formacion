@@ -35,7 +35,7 @@ public class AccessingDataJpaApplication {
 				log.info(cliente.toString());
 			}
 
-			System.out.println("Traza para llegar aqui");
+			System.out.println("Traza para llegar aqui-");
 			log.info("------------------------------------");
 
 			//buscamos clientes por ID
